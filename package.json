@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@angular/animations": "^20.3.26",
+    "@angular/cdk": "^20.2.14",
+    "@angular/fire": "^20.0.1",
+    "@angular/material": "^20.2.14",
+    "@ngrx/effects": "^20.1.0",
+    "@ngrx/store": "^20.1.0",
+    "@ngrx/store-devtools": "^20.1.0",
+    "firebase": "^11.10.0",
+    "jwt-decode": "^4.0.0"
+  }
+}
